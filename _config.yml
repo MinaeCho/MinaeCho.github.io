@@ -1,25 +1,23 @@
 title: Minae's Blog
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is my blog
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://MinaeCho.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: \@ Minae # add your name
-author-img: "nature.jpg" # add your photo
-about-author: 의미있는 학습을 기록하기 위한 공간입니다. # add description
+author: @Minae # add your name
+author-img: nature.jpg # add your photo
+about-author: 의미있는 학습을 기록하기 위한 공간 # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: MinaeCho # add your Github handle
 social-linkedin: # add your Linkedin handle
 social-email: gganbbei@gamil.com # add your Email address
 
-# Disqus
-discus-identifier: mr-brown # add your discus identifier
+# Disqus 댓글관련기능
+# discus-identifier: mr-brown # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
