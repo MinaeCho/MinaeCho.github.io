@@ -9,9 +9,9 @@ url: "https://MinaeCho.github.io" # the base hostname & protocol for your site, 
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: Minae Cho # add your name
-author-img: "programming.png" # add your photo
-about-author: I am a web developer focusing on back-end development. # add description
+author: \@Minae # add your name
+author-img: "nature.png" # add your photo
+about-author: 의미있는 학습을 기록하기 위한 공간입니다. # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: MinaeCho # add your Github handle
