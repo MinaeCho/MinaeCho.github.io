@@ -16,3 +16,5 @@ Kotlin은 어렵고 재밋다. Java에서 경험하지 못한 신세계
 - Null Safety
 - 원시타입이 없다
 - `equals()` 대신 `==`
+
+![Kotli Logo]
