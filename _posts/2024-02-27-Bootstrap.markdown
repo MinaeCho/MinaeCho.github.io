@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Github Blog 만들기(1)
+title: Bootstrap 사용하기
 date: 2024-02-27 20:54:00 +0900
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: study.jpg # Add image post (optional)
+img: boot.jpg # Add image post (optional)
 tags: [Backend, Java, Programming] # add tag
 ---
 # Bootstrap
